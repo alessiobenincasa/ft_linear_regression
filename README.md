@@ -30,6 +30,7 @@ pip install numpy pandas matplotlib scikit-learn
 
 python predict_price.py
 
+Example of toutput :
 
 Enter the mileage of the car: 85000
 Predicted price for 85000 km: 6200.34
